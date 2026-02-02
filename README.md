@@ -1,13 +1,13 @@
-aim: 
+## Aim: 
 Study of list in python
 
-theory: 
+## Theory: 
 In this experiment we learned how to use and edit lists in python. We added elements to list, removed elements from list, sorted elements of list,etc.
 list.append() is used to add elements into the list, list.remove() is used to remove elements from list, max() is used to find maximum , min() used to find minimum, len() is used to find length of list. 
 list1.extend(list2) is used to merge two lists.
 list[2] is used to find third element of the list.
 
-algorithm:
+## Algorithm:
 a)Algorithm: Analyzing Student Marks
     1)Initialize Data: Create a list containing the numerical marks of the students.
     2)Find Extremes:
@@ -26,5 +26,5 @@ b)Modifying a Grocery List
     4)Remove another Item: Search for "carrot" in the list and delete it using ".remove("carrot")" command.
     5)Output Results: Display the final, updated version of the list.
 
-conclusion: 
+## Conclusion: 
 Hence lists were implemented in python and operations were done on the lists.
